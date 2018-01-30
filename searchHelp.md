@@ -11,7 +11,7 @@
 * 把当前id存入自定义model中， 为了在在关闭时候获取。 
 * 执行search方法。  
 * [x] 参见 base.controller.js  文件中   onShowCommonHelp 方法中  
-
+[自定义属性 demo ](http://jsbin.com/openui5-customdata-xmlview/1/edit?html,output)
 ### search
 
 * Util.onSearchCommonHelp(oEvent, this, url);
