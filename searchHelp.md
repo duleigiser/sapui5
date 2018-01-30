@@ -5,7 +5,7 @@
 * 需要2个参数 url，id
 
         id 是点击input id 属性，也是fragment名， 这样adddepdent  这个fragment。
-        url 配置在input上自定义属性，是将来要请求的数据地址 [demo](http://jsbin.com/openui5-customdata-xmlview/1/edit?html,output)
+        url 配置在input上自定义属性，是将来要请求的数据地址
         url 是 app 命名空间的自定义属性(app:url)
         
 * 把当前id存入自定义model中， 为了在在关闭时候获取。 
